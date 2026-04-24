@@ -55,8 +55,6 @@ Built applications handling real-world data scenarios
 Practiced data preprocessing and transformation
 
 👤 Author
-
 Nikita
 Data Analyst
-Developed structured problem-solving approach
-Strengthened Python fundamentals for data analysi
+
